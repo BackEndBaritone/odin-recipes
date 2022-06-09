@@ -1,0 +1,1 @@
+This basic recipe website helped me get familiar with the fundamentals of HTML and typical Git workflow.
