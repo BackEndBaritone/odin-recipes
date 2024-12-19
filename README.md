@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple website detailing a few recipes. The aim of this project is to hone fundamental HTML skills.
